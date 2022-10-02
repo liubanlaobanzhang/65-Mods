@@ -21,27 +21,42 @@
 
 ---
 ## Mods 列表
-- Adorn-2.3.1+1.17.1-fabric
-- [x] cloth-config-5.3.63-fabric
-- continuity-1.1.0+1.17
-- emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.28-fabric
-- fabric-api-0.46.1+1.17
-- fabric-diagonal-panes-0.5.0
-- fabric-language-kotlin-1.8.3+kotlin.1.7.10
-- ForgeConfigAPIPort-v2.0.5-1.17.1-Fabric
-- indium-1.0.1+mc1.17.1
+
+### 必须安装以下模组：
+>_如果不安装这些模组，存档可能会崩溃。这些模组**默认启用**。_
+
+- [x] Adorn-2.3.1+1.17.1-fabric
+- [x] Cloth-config-5.3.63-fabric
+- [x] continuity-1.1.0+1.17
+- [X] Fabric API 0.46.1
+- [x] [Adorn 前置] fabric-language-kotlin-1.8.3+kotlin.1.7.10
+- [X] [铟] indium-1.0.1+mc1.17.1
+  > 这个模组是 Mo-Glass 的前置模组。
 - [x] [Iris Shaders] iris-mc1.17.1-1.2.7
-- malilib-fabric-1.17.1-0.10.0-dev.26
-- Mo-Glass-1.6.1-MC1.17.1
-- phosphor-fabric-mc1.17.x-0.8.0
-- eplaymod-1.17.1-2.6.8
-- tweakeroo-fabric-1.17.1-0.11.0
-- [x] [Textile备份] textile_backup-2.4.0-1.17
+- [x] [钠] sodium-fabric-mc1.17.1-0.3.4+build.13
+- [X] Mo-Glass 1.6.1
+- [x] [磷] Phosphor 0.8.0
+
+---
+### 这些模组可根据需要安装：
+>_这些模组不是必要的，你可以根据自己的需求进行安装。_<br>
+>_这些模组**默认禁用**，你可以自行启用。（[不会启用？点击此处查阅 Wiki。]()）_
+
+#### 辅助建造类
+- [ ] [投影] Litematica-fabric-1.17.1-0.9.0
+- [ ] MaLiLib 0.10.0-Dev.26
+  > 这个模组是 Litematica 的前置模组。
+- [ ] [创世神] Worldedit-mod-7.2.7
+- [ ] WorldEditCUI-1.17.1+01-SNAPSHOT
 - [ ] [Xaero的世界地图] XaerosWorldMap_1.26.6_Fabric_1.17.1
 - [ ] [Xaero的小地图] Xaeros_Minimap_22.13.2_Fabric_1.17.1
-- [创世神] worldedit-mod-7.2.7
-- [投影] litematica-fabric-1.17.1-0.9.0
-- [简单的语音聊天] voicechat-fabric-1.17.1-2.3.8
-- [自定义局域网联机] lanserverproperties-1.6-fabric
-- [越肩视角重制] ShoulderSurfing-Fabric-1.17.1-2.2.12
-- [x] [钠] sodium-fabric-mc1.17.1-0.3.4+build.13
+- [ ] Tweakeroo-fabric-1.17.1-0.11.0
+- [ ] [Textile备份] textile_backup-2.4.0-1.17
+
+#### 拍摄类：
+- [ ] [回放] Replaymod-1.17.1-2.6.8
+- [ ] [越肩视角重制] ShoulderSurfing-1.17.1-2.2.12
+
+#### 多人联机类：
+- [ ] [简单的语音聊天] Voicechat-Fabric-1.17.1-2.3.8
+- [ ] [自定义局域网联机] lanserverproperties-1.6-fabric
