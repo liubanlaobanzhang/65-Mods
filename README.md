@@ -48,8 +48,6 @@
 - [ ] MaLiLib 0.10.0-Dev.26
   > 这个模组是 Litematica 的前置模组。
 - [ ] [创世神] Worldedit-mod-7.2.7
-- [ ] WorldEditCUI-1.17.1+01-SNAPSHOT
-  > 此模组使用 [**Github Action**](https://github.com/liubanlaobanzhang/WorldEditCUI/actions) 自动构建，可能有难以预料的 Bug，请**谨慎启用**。
 - [ ] [Xaero的世界地图] XaerosWorldMap_1.26.6_Fabric_1.17.1
 - [ ] [Xaero的小地图] Xaeros_Minimap_22.13.2_Fabric_1.17.1
 - [ ] Tweakeroo-fabric-1.17.1-0.11.0
@@ -60,6 +58,9 @@
 #### 拍摄类：
 - [ ] [回放] Replaymod-1.17.1-2.6.8
 - [ ] [越肩视角重制] ShoulderSurfing-1.17.1-2.2.12
+- [ ] ForgeConfigAPIPort-v2.0.5-1.17.1-Fabric
+  > 这个模组是 越肩视角重制 的前置模组。
+
 
 #### 多人联机类：
 - [ ] [简单的语音聊天] Voicechat-Fabric-1.17.1-2.3.8
