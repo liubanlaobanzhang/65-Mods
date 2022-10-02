@@ -6,7 +6,7 @@
 
 #### — `Mods存放点` —
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4?logo=bilibili)](https://space.bilibili.com/449597750) 建筑作品
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4?logo=bilibili)](https://sce.bilibili.com/449597750) 建筑作品
 
 ![建筑内容](https://img.shields.io/badge/%E5%BB%BA%E7%AD%91%E5%86%85%E5%AE%B9-%E9%9D%92%E5%B2%9B65%E4%B8%AD-success)
 [![GitHub issues](https://img.shields.io/github/issues/liubanlaobanzhang/65-Mods?logo=github)](https://github.com/liubanlaobanzhang/65-Mods/issues)
@@ -29,7 +29,8 @@
 - [x] Cloth-config-5.3.63-fabric
 - [x] continuity-1.1.0+1.17
 - [X] Fabric API 0.46.1
-- [x] [Adorn 前置] fabric-language-kotlin-1.8.3+kotlin.1.7.10
+- [x] fabric-language-kotlin-1.8.3+kotlin.1.7.10
+  > 这个模组是 Adorn 的前置模组。 
 - [X] [铟] indium-1.0.1+mc1.17.1
   > 这个模组是 Mo-Glass 的前置模组。
 - [x] [Iris Shaders] iris-mc1.17.1-1.2.7
@@ -40,7 +41,7 @@
 ---
 ### 这些模组可根据需要安装：
 >_这些模组不是必要的，你可以根据自己的需求进行安装。_<br>
->_这些模组**默认禁用**，你可以自行启用——**PCL 2/HMCL/BakaXL可以识别并重新启用**，使用其他启动器把后缀名的 **".disabled"** 去掉就好。_
+>_这些模组**默认启用**，你可以自行禁用——**PCL 2/HMCL/BakaXL可以识别并禁用**，使用其他启动器加上后缀名 **".disabled"** 就好。_
 
 #### 辅助建造类
 - [ ] [投影] Litematica-fabric-1.17.1-0.9.0
@@ -48,9 +49,12 @@
   > 这个模组是 Litematica 的前置模组。
 - [ ] [创世神] Worldedit-mod-7.2.7
 - [ ] WorldEditCUI-1.17.1+01-SNAPSHOT
+  > 此模组使用 [**Github Action**](https://github.com/liubanlaobanzhang/WorldEditCUI/actions) 自动构建，可能有难以预料的 Bug，请**谨慎启用**。
 - [ ] [Xaero的世界地图] XaerosWorldMap_1.26.6_Fabric_1.17.1
 - [ ] [Xaero的小地图] Xaeros_Minimap_22.13.2_Fabric_1.17.1
 - [ ] Tweakeroo-fabric-1.17.1-0.11.0
+
+#### 备份类：
 - [ ] [Textile备份] textile_backup-2.4.0-1.17
 
 #### 拍摄类：
@@ -60,3 +64,5 @@
 #### 多人联机类：
 - [ ] [简单的语音聊天] Voicechat-Fabric-1.17.1-2.3.8
 - [ ] [自定义局域网联机] lanserverproperties-1.6-fabric
+
+---
