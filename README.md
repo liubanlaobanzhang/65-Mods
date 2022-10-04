@@ -54,6 +54,7 @@
 
 #### 备份类：
 - [ ] [Textile备份] textile_backup-2.4.0-1.17
+  > 将在移植到 1.19.2 后改用[FTB Backup 2](https://www.mcmod.cn/class/6688.html)。
 
 #### 拍摄类：
 - [ ] [回放] Replaymod-1.17.1-2.6.8
